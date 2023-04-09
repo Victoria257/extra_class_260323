@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/extra_class_260323/static/css/main.7acaea2f.css",
+    "main.js": "/extra_class_260323/static/js/main.9c260ea9.js",
+    "index.html": "/extra_class_260323/index.html",
+    "main.7acaea2f.css.map": "/extra_class_260323/static/css/main.7acaea2f.css.map",
+    "main.9c260ea9.js.map": "/extra_class_260323/static/js/main.9c260ea9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.9c260ea9.js"
+  ]
+}
